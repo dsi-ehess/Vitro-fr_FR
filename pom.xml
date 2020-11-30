@@ -4,14 +4,14 @@
 	<modelVersion>4.0.0</modelVersion>
 
 
-	<groupId>org.vivoweb</groupId>
+	<groupId>fr.ehess</groupId>
 	<artifactId>vitro-fr_FR</artifactId>
 	<version>1.11.2-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>Vitro fr_FR</name>
+	<name>Vitro for fr_FR</name>
 	<description>Vitro fr_FR</description>
-	<url>http://vivoweb.org/</url>
+	<url>http://ehess.fr</url>
 
 	<licenses>
 		<license>
